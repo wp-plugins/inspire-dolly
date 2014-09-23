@@ -2,7 +2,7 @@
 Contributors: meabhisek
 Tags:   quotes, quote, inspiration, authors, admin, content
 Requires at least: 3.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: trunk
 License: GPLv2
 
