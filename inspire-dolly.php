@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Inspire Dolly
-Version: 1.0
+Version: 1.0.1
 Description: Based on Matt Mullenweg's Hello Dolly Plugin.When enabled, on every page of the admin area you will see a random quote inspiring you to be a fearless writer. 
 Author: Kumar Abhisek
 Author URI: http://increasy.com/
@@ -59,6 +59,26 @@ $inspire[27]="When asked, ‘How do you write?’ I invariably answer, ‘one wo
 $inspire[28]="Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." ;
 $inspire[29]="You are a genius, all of the time." ;
 $inspire[30]="You never have to change anything you got up in the middle of the night to write." ;
+$inspire[31]="Passion is king! Only when you breathe it in, can the transformation begin." ;
+$inspire[32]="Problems are only opportunities in work clothes." ;
+$inspire[33]="If life gives you lemons, make lemonade." ;
+$inspire[34]="I write one page of masterpiece to ninety-one pages of shit." ;
+$inspire[35]="Fail Forward, Not Backwards." ;
+$inspire[36]="A real book is not one that’s read, but one that reads us." ;
+$inspire[37]="Being a good writer is 3% talent, 97% not being distracted by the Internet." ;
+$inspire[38]="It is by sitting down to write every morning that one becomes a writer." ;
+$inspire[39]="Most of the basic material a writer works with is acquired before the age of fifteen." ;
+$inspire[40]="The original writer is not one who imitates nobody, but one whom nobody can imitate." ;
+$inspire[41]="To survive, you must tell stories." ;
+$inspire[42]="The Six Golden Rules of Writing: Read, read, read, and write, write, write." ;
+$inspire[43]="To write with style, we need at times to break the rules." ;
+$inspire[44]="Only the poet can look beyond the detail and see the whole picture." ;
+$inspire[45]="If I had to give young writers advice, I would say don’t listen to writers talking about writing or themselves." ;
+$inspire[46]="Serious writers write, inspired or not. Over time they discover that routine is a better friend than inspiration." ;
+$inspire[47]="If it sounds like writing, I rewrite it." ;
+$inspire[48]="The secret of good writing is telling the truth." ;
+$inspire[49]="It is better to write a bad first draft than to write no first draft at all." ;
+$inspire[50]="To gain your own voice, you have to forget about having it heard." ;
 
 $chosen = wptexturize($inspire[ mt_rand(0, count($inspire)-1)]);
 
@@ -82,6 +102,7 @@ margin-bottom: 20px;
 margin-right: 20px;
 padding: 4px;
 font-size: 13px;
+font-weight: bold;
 color: #777;
 background-color: #FFF;
 border: 1px solid #ddd;
