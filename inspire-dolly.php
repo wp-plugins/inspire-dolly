@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Inspire Dolly
-Version: 1.0.1
+Version: 1.0.2
 Description: Based on Matt Mullenweg's Hello Dolly Plugin.When enabled, on every page of the admin area you will see a random quote inspiring you to be a fearless writer. 
 Author: Kumar Abhisek
 Author URI: http://increasy.com/
