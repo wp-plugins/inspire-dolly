@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Inspire Dolly
-Version: 1.0.1
+Version: 1.0.2
 Description: Based on Matt Mullenweg's Hello Dolly Plugin.When enabled, on every page of the admin area you will see a random quote inspiring you to be a fearless writer. 
 Author: Kumar Abhisek
 Author URI: http://increasy.com/
@@ -79,6 +79,16 @@ $inspire[47]="If it sounds like writing, I rewrite it." ;
 $inspire[48]="The secret of good writing is telling the truth." ;
 $inspire[49]="It is better to write a bad first draft than to write no first draft at all." ;
 $inspire[50]="To gain your own voice, you have to forget about having it heard." ;
+$inspire[51]="Stop wishing, start doing." ;
+$inspire[52]="Love your whole story even if it hasn't been the perfect fairy tale." ;
+$inspire[53]="In the heart of every struggle lies an opportunity to grow." ;
+$inspire[54]="There are no limits or boundaries to what you can do, listen to the guidance of your inner-voice." ;
+$inspire[55]="The first draft of anything is shit." ;
+$inspire[56]="Too many of us are not living our dreams because we are living our fears." ;
+$inspire[57]="Everybody walks past a thousand story ideas every day. The good writers are the ones who see five or six of them. Most people don’t see any." ;
+$inspire[58]="You don’t have to say everything to say something." ;
+$inspire[59]="We are all apprentices in a craft where no one ever becomes a master." ;
+$inspire[60]="If the writing is honest it cannot be separated from the man who wrote it." ;
 
 $chosen = wptexturize($inspire[ mt_rand(0, count($inspire)-1)]);
 
