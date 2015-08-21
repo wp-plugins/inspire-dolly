@@ -2,7 +2,7 @@
 Contributors: meabhisek
 Tags:   quotes, quote, inspiration, authors, admin, content
 Requires at least: 3.0
-Tested up to: 4.2.1
+Tested up to: 4.3
 Stable tag: 1.0.2
 License: GPLv2
 
@@ -15,6 +15,14 @@ Inspire Dolly is based on Matt Mullenweg's [Hello Dolly](https://wordpress.org/p
 
 Follow the developer on [Twitter](https://twitter.com/twitabhisek)
 
+**Download My Other Plugins**
+
+* [Mini Membership](https://wordpress.org/plugins/mini-membership/)
+* [Private Content Login Redirect](https://wordpress.org/plugins/private-content-login-redirect/)
+* [Rainbow Status](https://wordpress.org/plugins/rainbow-status/)
+* [Restrict Dashboard Access](https://wordpress.org/plugins/restrict-dashboard-access/)
+* [WP Admin Color Schemes](https://wordpress.org/plugins/wp-admin-color-schemes/)
+* [Frame Breaker](https://wordpress.org/plugins/frame-breaker/)
 
 ==Installation== 
 
